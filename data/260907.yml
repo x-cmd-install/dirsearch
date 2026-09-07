@@ -5,15 +5,15 @@ about:
   head: f927c60
   archived: false
   latestVersion: "v0.5.0"
-  collectedAt: 2026-09-07T05:57:59Z
+  collectedAt: 2026-09-07T18:38:37Z
 timeline:
   created: 2013-04-30
   lastCommit: 2026-09-05
   lastRelease: 2026-08-14
 popularity:
-  star: 14697
+  star: 14699
   watcher: 310
-  fork: 2441
+  fork: 2440
   release: 17
   contributor: 96
   pullRequest: 995
@@ -83,7 +83,7 @@ total:
   commit: 2800
 ---
 path: /home/runner/.x-repo/github.com/maurosoria/dirsearch
-collectedAt: 2026-09-07T05:58:03Z
+collectedAt: 2026-09-07T18:38:41Z
 loc:
   Python:
     code: 16926
@@ -304,7 +304,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/docker-image.yml:34'
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:03+00:00
+  collectedAt: 2026-09-07T18:38:43+00:00
   platform:
     darwin/arm64:
       name:  dirsearch-v0.5.0-macos-intel-async-portable.tar.gz

@@ -2,12 +2,12 @@ about:
   description: "Web path scanner"
   license: NOASSERTION
   homepage: 
-  head: 62381a0
+  head: 2f0c474
   archived: false
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: "v0.4.1-alpha"
-  collectedAt: 2026-09-09T05:58:55Z
+  collectedAt: 2026-09-09T20:32:01Z
 timeline:
   created: 2013-04-30
   lastCommit: 2026-09-09
@@ -15,85 +15,85 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 2020-12-09
 popularity:
-  star: 14704
+  star: 14709
   watcher: 310
   fork: 2440
   release: 17
   contributor: 96
-  pullRequest: 999
+  pullRequest: 1000
   issue: 601
 language:
-  Python: 758123
+  Python: 770937
   Rust: 71913
   HTML: 8563
   Shell: 3995
   Dockerfile: 1179
-totalBytes: 843773
+totalBytes: 856587
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 43
+    mergedPR: 44
     openPR: 1
     closedIssue: 6
     openIssue: 5
-    commit: 59
+    commit: 61
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 44
+    mergedPR: 45
     openPR: 3
     closedIssue: 6
     openIssue: 5
-    commit: 83
+    commit: 85
   last90d:
     since: 2026-06-11
     release: 1
-    mergedPR: 45
+    mergedPR: 46
     openPR: 4
     closedIssue: 6
     openIssue: 5
-    commit: 84
+    commit: 86
   last180d:
     since: 2026-03-13
     release: 1
-    mergedPR: 68
+    mergedPR: 69
     openPR: 8
     closedIssue: 10
     openIssue: 5
-    commit: 129
+    commit: 131
   last360d:
     since: 2025-09-14
     release: 1
-    mergedPR: 102
+    mergedPR: 103
     openPR: 8
     closedIssue: 20
     openIssue: 6
-    commit: 184
+    commit: 186
   last720d:
     since: 2024-09-19
     release: 1
-    mergedPR: 139
+    mergedPR: 140
     openPR: 8
     closedIssue: 57
     openIssue: 7
-    commit: 402
+    commit: 405
 total:
   release: 17
-  mergedPR: 820
+  mergedPR: 821
   openPR: 9
   closedIssue: 587
   openIssue: 14
-  commit: 2809
+  commit: 2812
 ---
 path: /home/runner/.x-repo/github.com/maurosoria/dirsearch
-collectedAt: 2026-09-09T05:58:59Z
+collectedAt: 2026-09-09T20:32:11Z
 loc:
   Python:
-    code: 17355
-    comments: 1279
-    blanks: 3715
-    files: 143
+    code: 17693
+    comments: 1296
+    blanks: 3749
+    files: 146
   Rust:
     code: 2078
     comments: 1
@@ -150,10 +150,10 @@ loc:
     blanks: 1
     files: 53
 total:
-  code: 20309
-  comments: 22875
-  blanks: 4507
-  files: 226
+  code: 20647
+  comments: 22892
+  blanks: 4541
+  files: 229
 ---
 date: "2026-09-07"
 repo:

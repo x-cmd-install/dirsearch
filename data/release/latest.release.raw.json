@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 50724752,
       "digest": "sha256:00ebae8abc4e85a790b6e333d40ff6376091aad9279e4e3006b0ae64eb244f96",
-      "download_count": 235,
+      "download_count": 236,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:29Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-x64-async"

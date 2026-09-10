@@ -1,0 +1,340 @@
+- repo: aur
+  srcname: dirsearch
+  binname: dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-5
+  status: outdated
+  summary: Web path scanner/fuzzer, written in Python
+  maintainers:
+    - levitating@aur
+  licenses:
+    - GPL-2.0-only
+- repo: aur
+  srcname: dirsearch-git
+  binname: dirsearch-git
+  visiblename: dirsearch-git
+  version: 0.4.2.r298.ec05dec
+  origversion: 1:0.4.2.r298.ec05dec-1
+  status: rolling
+  summary: Web path scanner/fuzzer, written in Python
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL2
+- repo: backbox_7
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1~bpo20.04.1~ppa1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: backbox_8
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1~bpo22.04.1~ppa1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: blackarch
+  srcname: dirsearch
+  binname: dirsearch
+  visiblename: dirsearch
+  version: 2800.f927c605
+  origversion: 2800.f927c605-1
+  status: ignored
+  summary: HTTP(S) directory/file brute forcer.
+  licenses:
+    - GPL2
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.2
+  origversion: 0.4.2+ds-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3
+  status: newest
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3
+  status: newest
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.2
+  origversion: 0.4.2+ds-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.2
+  origversion: 0.4.2+ds-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.2
+  origversion: 0.4.2+ds-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1build1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-2
+  status: newest
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - universe/misc

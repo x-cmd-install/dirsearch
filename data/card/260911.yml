@@ -2,12 +2,12 @@ about:
   description: "Web path scanner"
   license: NOASSERTION
   homepage: 
-  head: 468be28
+  head: 61b356e
   archived: false
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: "v0.4.1-alpha"
-  collectedAt: 2026-09-11T05:52:17Z
+  collectedAt: 2026-09-11T18:58:28Z
 timeline:
   created: 2013-04-30
   lastCommit: 2026-09-11
@@ -15,89 +15,89 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 2020-12-09
 popularity:
-  star: 14712
+  star: 14716
   watcher: 310
   fork: 2440
   release: 17
   contributor: 96
-  pullRequest: 1005
-  issue: 601
+  pullRequest: 1012
+  issue: 600
 language:
-  Python: 809083
-  Rust: 71913
+  Python: 834043
+  Rust: 76680
   HTML: 8563
   Shell: 3995
   Dockerfile: 1179
-totalBytes: 894733
+totalBytes: 924460
 recent:
   last30d:
     since: 2026-08-12
     release: 1
-    mergedPR: 50
-    openPR: 0
+    mergedPR: 56
+    openPR: 1
     closedIssue: 6
     openIssue: 5
-    commit: 70
+    commit: 78
   last60d:
     since: 2026-07-13
     release: 1
-    mergedPR: 51
-    openPR: 2
+    mergedPR: 57
+    openPR: 3
     closedIssue: 6
     openIssue: 5
-    commit: 94
+    commit: 102
   last90d:
     since: 2026-06-13
     release: 1
-    mergedPR: 52
-    openPR: 2
+    mergedPR: 58
+    openPR: 3
     closedIssue: 6
     openIssue: 5
-    commit: 95
+    commit: 103
   last180d:
     since: 2026-03-15
     release: 1
-    mergedPR: 75
-    openPR: 7
+    mergedPR: 81
+    openPR: 8
     closedIssue: 10
     openIssue: 5
-    commit: 140
+    commit: 148
   last360d:
     since: 2025-09-16
     release: 1
-    mergedPR: 109
-    openPR: 7
-    closedIssue: 20
+    mergedPR: 115
+    openPR: 8
+    closedIssue: 19
     openIssue: 6
-    commit: 195
+    commit: 203
   last720d:
     since: 2024-09-21
     release: 1
-    mergedPR: 146
-    openPR: 7
-    closedIssue: 57
+    mergedPR: 152
+    openPR: 8
+    closedIssue: 56
     openIssue: 7
-    commit: 419
+    commit: 433
 total:
   release: 17
-  mergedPR: 827
-  openPR: 8
-  closedIssue: 587
+  mergedPR: 833
+  openPR: 9
+  closedIssue: 586
   openIssue: 14
-  commit: 2827
+  commit: 2841
 ---
 path: /home/runner/.x-repo/github.com/maurosoria/dirsearch
-collectedAt: 2026-09-11T05:52:20Z
+collectedAt: 2026-09-11T18:58:37Z
 loc:
   Python:
-    code: 18610
-    comments: 1298
-    blanks: 3897
-    files: 150
+    code: 19245
+    comments: 1300
+    blanks: 4014
+    files: 153
   Rust:
-    code: 2078
+    code: 2198
     comments: 1
-    blanks: 197
+    blanks: 205
     files: 2
   RPMSpecfile:
     code: 122
@@ -110,9 +110,9 @@ loc:
     blanks: 24
     files: 1
   Toml:
-    code: 77
+    code: 82
     comments: 17
-    blanks: 11
+    blanks: 12
     files: 3
   Html:
     code: 73
@@ -150,10 +150,10 @@ loc:
     blanks: 1
     files: 53
 total:
-  code: 21564
-  comments: 22901
-  blanks: 4691
-  files: 233
+  code: 22324
+  comments: 22903
+  blanks: 4817
+  files: 236
 ---
 date: "2026-09-07"
 repo:

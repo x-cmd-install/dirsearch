@@ -14,12 +14,12 @@ x install dirsearch
 
 ## 代码洞察
 
-合计: **23,769** 行代码（覆盖前 5 种语言、共 **164** 个文件）。
+合计: **24,688** 行代码（覆盖前 5 种语言、共 **171** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 21,017 | 1,300 | 4,327 | 157 |
-| Rust | 2,204 | 1 | 205 | 2 |
+| Python | 21,738 | 1,316 | 4,466 | 157 |
+| Rust | 2,402 | 17 | 216 | 9 |
 | RPMSpecfile | 122 | 13 | 15 | 1 |
 | Sh | 119 | 1 | 24 | 1 |
 | Toml | 82 | 17 | 12 | 3 |
@@ -30,7 +30,7 @@ x install dirsearch
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ x install dirsearch
 ## 发布
 
 - **最新版本**: `v0.5.0` (2026-08-14)
-- **最近提交**: 2026-09-15
+- **最近提交**: 2026-09-16
 - **Release 含资产**: 34 个
 
 ## 流行度
 
-- **Star**: 14,721 · **Fork**: 2,440 · **开放 issue**: 601 · **贡献者**: 96
+- **Star**: 14,728 · **Fork**: 2,440 · **开放 issue**: 601 · **贡献者**: 96
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 852 · **开放 PR**: 9 · **已关闭 issue**: 587 · **开放 issue**: 14 · **提交数**: 2880
+- **发布数**: 17 · **已合并 PR**: 858 · **开放 PR**: 9 · **已关闭 issue**: 587 · **开放 issue**: 14 · **提交数**: 2893
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 68 | 1 | 5 | 3 | 94 |
-| last60d | 2026-07-17 | 1 | 76 | 3 | 7 | 5 | 122 |
-| 90d | 2026-06-17 | 1 | 77 | 3 | 7 | 5 | 123 |
-| last180d | 2026-03-19 | 1 | 100 | 8 | 11 | 5 | 168 |
-| 360d | 2025-09-20 | 1 | 133 | 8 | 20 | 6 | 221 |
-| last720d | 2024-09-25 | 1 | 171 | 8 | 55 | 7 | 471 |
+| 30d | 2026-08-17 | 0 | 74 | 1 | 5 | 3 | 0 |
+| last60d | 2026-07-18 | 1 | 82 | 3 | 7 | 5 | 0 |
+| 90d | 2026-06-18 | 1 | 83 | 3 | 7 | 5 | 0 |
+| last180d | 2026-03-20 | 1 | 106 | 8 | 11 | 5 | 0 |
+| 360d | 2025-09-21 | 1 | 139 | 8 | 20 | 6 | 0 |
+| last720d | 2024-09-26 | 1 | 177 | 8 | 54 | 7 | 484 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ dirsearch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:34:06Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:26:18Z._

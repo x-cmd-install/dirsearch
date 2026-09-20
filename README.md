@@ -4,7 +4,7 @@
 
 Web path scanner
 
-![dirsearch](https://repo.x-cmd.io/dirsearch.svg)
+[![x-cmd/install — dirsearch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dirsearch.svg)](https://x-cmd.com/install/dirsearch)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,735 · **Forks**: 2,439 · **Open issues**: 601 · **Contributors**: 96
+- **Stars**: 14,739 · **Forks**: 2,441 · **Open issues**: 600 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 859 · **Open PRs**: 9 · **Closed issues**: 587 · **Open issues**: 14 · **Commits**: 2900
+- **Releases**: 17 · **Merged PRs**: 859 · **Open PRs**: 9 · **Closed issues**: 586 · **Open issues**: 14 · **Commits**: 2900
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 74 | 1 | 3 | 3 | 107 |
-| last60d | 2026-07-20 | 1 | 83 | 3 | 7 | 5 | 135 |
-| 90d | 2026-06-20 | 1 | 84 | 3 | 7 | 5 | 136 |
-| last180d | 2026-03-22 | 1 | 107 | 8 | 11 | 5 | 181 |
-| 360d | 2025-09-23 | 1 | 139 | 8 | 20 | 6 | 234 |
-| last720d | 2024-09-28 | 1 | 178 | 8 | 54 | 7 | 491 |
+| 30d | 2026-08-21 | 0 | 73 | 1 | 1 | 2 | 107 |
+| last60d | 2026-07-22 | 1 | 82 | 3 | 7 | 5 | 135 |
+| 90d | 2026-06-22 | 1 | 84 | 3 | 7 | 5 | 136 |
+| last180d | 2026-03-24 | 1 | 107 | 8 | 11 | 5 | 181 |
+| 360d | 2025-09-25 | 1 | 139 | 8 | 20 | 6 | 234 |
+| last720d | 2024-09-30 | 1 | 178 | 8 | 53 | 7 | 491 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:20:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:02Z._

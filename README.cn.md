@@ -4,7 +4,7 @@
 
 Web path scanner
 
-![dirsearch](https://repo.x-cmd.io/dirsearch.svg?lang=zh)
+[![x-cmd/install — dirsearch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dirsearch.svg?lang=zh)](https://x-cmd.com/install/dirsearch)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install dirsearch
 
 ## 流行度
 
-- **Star**: 14,735 · **Fork**: 2,439 · **开放 issue**: 601 · **贡献者**: 96
+- **Star**: 14,739 · **Fork**: 2,441 · **开放 issue**: 600 · **贡献者**: 96
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 859 · **开放 PR**: 9 · **已关闭 issue**: 587 · **开放 issue**: 14 · **提交数**: 2900
+- **发布数**: 17 · **已合并 PR**: 859 · **开放 PR**: 9 · **已关闭 issue**: 586 · **开放 issue**: 14 · **提交数**: 2900
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 74 | 1 | 3 | 3 | 107 |
-| last60d | 2026-07-20 | 1 | 83 | 3 | 7 | 5 | 135 |
-| 90d | 2026-06-20 | 1 | 84 | 3 | 7 | 5 | 136 |
-| last180d | 2026-03-22 | 1 | 107 | 8 | 11 | 5 | 181 |
-| 360d | 2025-09-23 | 1 | 139 | 8 | 20 | 6 | 234 |
-| last720d | 2024-09-28 | 1 | 178 | 8 | 54 | 7 | 491 |
+| 30d | 2026-08-21 | 0 | 73 | 1 | 1 | 2 | 107 |
+| last60d | 2026-07-22 | 1 | 82 | 3 | 7 | 5 | 135 |
+| 90d | 2026-06-22 | 1 | 84 | 3 | 7 | 5 | 136 |
+| last180d | 2026-03-24 | 1 | 107 | 8 | 11 | 5 | 181 |
+| 360d | 2025-09-25 | 1 | 139 | 8 | 20 | 6 | 234 |
+| last720d | 2024-09-30 | 1 | 178 | 8 | 53 | 7 | 491 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ dirsearch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:20:32Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:16:03Z._

@@ -30,7 +30,7 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,743 · **Forks**: 2,441 · **Open issues**: 600 · **Contributors**: 96
+- **Stars**: 14,747 · **Forks**: 2,443 · **Open issues**: 601 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 859 · **Open PRs**: 9 · **Closed issues**: 586 · **Open issues**: 14 · **Commits**: 2900
+- **Releases**: 17 · **Merged PRs**: 859 · **Open PRs**: 10 · **Closed issues**: 586 · **Open issues**: 15 · **Commits**: 2900
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 73 | 1 | 1 | 2 | 78 |
-| last60d | 2026-07-23 | 1 | 82 | 3 | 7 | 5 | 134 |
-| 90d | 2026-06-23 | 1 | 84 | 3 | 7 | 5 | 136 |
-| last180d | 2026-03-25 | 1 | 107 | 8 | 11 | 5 | 181 |
-| 360d | 2025-09-26 | 1 | 139 | 8 | 20 | 6 | 234 |
-| last720d | 2024-10-01 | 1 | 178 | 8 | 53 | 7 | 491 |
+| 30d | 2026-08-23 | 0 | 70 | 2 | 1 | 3 | 78 |
+| last60d | 2026-07-24 | 1 | 82 | 4 | 7 | 6 | 134 |
+| 90d | 2026-06-24 | 1 | 84 | 4 | 7 | 6 | 136 |
+| last180d | 2026-03-26 | 1 | 107 | 9 | 11 | 6 | 181 |
+| 360d | 2025-09-27 | 1 | 139 | 9 | 20 | 7 | 234 |
+| last720d | 2024-10-02 | 1 | 177 | 9 | 53 | 8 | 491 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:11:20Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:21:19Z._

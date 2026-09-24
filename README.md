@@ -14,11 +14,11 @@ x install dirsearch
 
 ## Code insight
 
-Total: **27,161** lines of code across **173** files in the top 5 languages.
+Total: **27,652** lines of code across **175** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 23,462 | 1,340 | 4,776 | 158 |
+| Python | 23,952 | 1,358 | 4,875 | 160 |
 | Rust | 3,151 | 24 | 279 | 10 |
 | RPMSpecfile | 122 | 13 | 15 | 1 |
 | Sh | 119 | 1 | 24 | 1 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 867 · **Open PRs**: 9 · **Closed issues**: 586 · **Open issues**: 15 · **Commits**: 2917
+- **Releases**: 17 · **Merged PRs**: 872 · **Open PRs**: 9 · **Closed issues**: 586 · **Open issues**: 15 · **Commits**: 2927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 71 | 1 | 1 | 3 | 87 |
-| last60d | 2026-07-25 | 1 | 90 | 2 | 7 | 6 | 143 |
-| 90d | 2026-06-25 | 1 | 92 | 3 | 7 | 6 | 145 |
-| last180d | 2026-03-27 | 1 | 115 | 8 | 11 | 6 | 190 |
-| 360d | 2025-09-28 | 1 | 147 | 8 | 20 | 7 | 243 |
-| last720d | 2024-10-03 | 1 | 185 | 8 | 53 | 8 | 506 |
+| 30d | 2026-08-25 | 0 | 75 | 1 | 1 | 3 | 92 |
+| last60d | 2026-07-26 | 1 | 95 | 2 | 7 | 6 | 148 |
+| 90d | 2026-06-26 | 1 | 97 | 3 | 7 | 6 | 150 |
+| last180d | 2026-03-28 | 1 | 120 | 8 | 11 | 6 | 195 |
+| 360d | 2025-09-29 | 1 | 152 | 8 | 20 | 7 | 248 |
+| last720d | 2024-10-04 | 1 | 188 | 8 | 53 | 8 | 516 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:28:45Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:43:03Z._

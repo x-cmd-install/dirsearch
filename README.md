@@ -14,15 +14,15 @@ x install dirsearch
 
 ## Code insight
 
-Total: **29,011** lines of code across **175** files in the top 5 languages.
+Total: **31,155** lines of code across **177** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,027 | 1,365 | 5,019 | 160 |
-| Rust | 3,449 | 30 | 303 | 10 |
+| Python | 26,582 | 1,366 | 5,250 | 161 |
+| Rust | 4,032 | 37 | 359 | 11 |
 | RPMSpecfile | 122 | 13 | 15 | 1 |
 | Sh | 119 | 1 | 24 | 1 |
-| Toml | 84 | 17 | 12 | 3 |
+| Toml | 90 | 18 | 12 | 3 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.0` (2026-08-14)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 14,753 · **Forks**: 2,442 · **Open issues**: 601 · **Contributors**: 96
+- **Stars**: 14,756 · **Forks**: 2,442 · **Open issues**: 601 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 882 · **Open PRs**: 5 · **Closed issues**: 588 · **Open issues**: 13 · **Commits**: 2949
+- **Releases**: 17 · **Merged PRs**: 886 · **Open PRs**: 9 · **Closed issues**: 588 · **Open issues**: 13 · **Commits**: 2959
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 80 | 0 | 2 | 2 | 0 |
-| last60d | 2026-07-27 | 1 | 103 | 0 | 8 | 5 | 0 |
-| 90d | 2026-06-27 | 1 | 106 | 0 | 8 | 5 | 0 |
-| last180d | 2026-03-29 | 1 | 130 | 4 | 12 | 5 | 0 |
-| 360d | 2025-09-30 | 1 | 162 | 4 | 22 | 5 | 0 |
-| last720d | 2024-10-05 | 1 | 198 | 4 | 55 | 6 | 535 |
+| 30d | 2026-08-27 | 0 | 80 | 4 | 2 | 2 | 110 |
+| last60d | 2026-07-28 | 1 | 106 | 4 | 8 | 5 | 166 |
+| 90d | 2026-06-28 | 1 | 110 | 4 | 8 | 5 | 168 |
+| last180d | 2026-03-30 | 1 | 134 | 8 | 12 | 5 | 213 |
+| 360d | 2025-10-01 | 1 | 166 | 8 | 22 | 5 | 266 |
+| last720d | 2024-10-06 | 1 | 202 | 8 | 55 | 6 | 545 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:52:19Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:48:48Z._

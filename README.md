@@ -30,7 +30,7 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,761 · **Forks**: 2,442 · **Open issues**: 601 · **Contributors**: 96
+- **Stars**: 14,768 · **Forks**: 2,442 · **Open issues**: 601 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 87 | 1 | 1 | 2 | 113 |
-| last60d | 2026-07-30 | 1 | 113 | 1 | 8 | 5 | 177 |
-| 90d | 2026-06-30 | 1 | 116 | 1 | 8 | 5 | 178 |
-| last180d | 2026-04-01 | 1 | 141 | 5 | 12 | 5 | 224 |
-| 360d | 2025-10-03 | 1 | 173 | 5 | 22 | 5 | 277 |
-| last720d | 2024-10-08 | 1 | 209 | 5 | 55 | 6 | 563 |
+| 30d | 2026-08-30 | 0 | 87 | 1 | 1 | 2 | 113 |
+| last60d | 2026-07-31 | 1 | 113 | 1 | 8 | 5 | 177 |
+| 90d | 2026-07-01 | 1 | 116 | 1 | 8 | 5 | 178 |
+| last180d | 2026-04-02 | 1 | 141 | 5 | 12 | 5 | 224 |
+| 360d | 2025-10-04 | 1 | 173 | 5 | 22 | 5 | 277 |
+| last720d | 2024-10-09 | 1 | 209 | 5 | 55 | 6 | 563 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:25:53Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:04:21Z._

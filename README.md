@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,947 · **Forks**: 2,453 · **Open issues**: 603 · **Contributors**: 95
+- **Stars**: 14,957 · **Forks**: 2,456 · **Open issues**: 603 · **Contributors**: 95
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 69 | 1 | 1 | 1 | 78 |
-| last60d | 2026-08-15 | 0 | 138 | 1 | 6 | 4 | 189 |
-| 90d | 2026-07-16 | 1 | 147 | 1 | 8 | 6 | 214 |
-| last180d | 2026-04-17 | 1 | 172 | 3 | 12 | 6 | 260 |
-| 360d | 2025-10-19 | 1 | 204 | 3 | 21 | 6 | 307 |
-| last720d | 2024-10-24 | 1 | 221 | 3 | 53 | 7 | 558 |
+| 30d | 2026-09-15 | 0 | 66 | 1 | 1 | 1 | 78 |
+| last60d | 2026-08-16 | 0 | 137 | 1 | 6 | 4 | 189 |
+| 90d | 2026-07-17 | 1 | 147 | 1 | 8 | 6 | 214 |
+| last180d | 2026-04-18 | 1 | 172 | 3 | 12 | 6 | 260 |
+| 360d | 2025-10-20 | 1 | 202 | 3 | 20 | 6 | 307 |
+| last720d | 2024-10-25 | 1 | 221 | 3 | 53 | 7 | 550 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:55:27Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:34:15Z._

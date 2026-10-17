@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 50861280,
       "digest": "sha256:9c654d59fe715c6acb4377f14afd4fdfafec02fd570d50b5c12dcbb5df1af6dd",
-      "download_count": 426,
+      "download_count": 430,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:30Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-arm64-async"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 114509079,
       "digest": "sha256:9f525df5eb9aaeb5b14107e3d1005ee64d90221f477258ceb5c874f4387d9983",
-      "download_count": 261,
+      "download_count": 262,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:34Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-arm64-async-portable.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 50724752,
       "digest": "sha256:00ebae8abc4e85a790b6e333d40ff6376091aad9279e4e3006b0ae64eb244f96",
-      "download_count": 554,
+      "download_count": 565,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:29Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-x64-async"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 50655256,
       "digest": "sha256:546320f371a29da9525ebceee083e423d6a271cf43180f5eae1db0176371ae41",
-      "download_count": 151,
+      "download_count": 153,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:29Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-x64-threaded"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 127835917,
       "digest": "sha256:4885e15af2ceaaa28b447224fc72c6478f8ff8db8ed26b53a2446e739beae770",
-      "download_count": 125,
+      "download_count": 129,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:36Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-linux-x64-threaded-portable.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 22182592,
       "digest": "sha256:e09db3cf2d60d03e02813197bf5a76be8e1315d0657d908c12142990fef5ed50",
-      "download_count": 80,
+      "download_count": 81,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:25Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-macos-silicon-threaded"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 60646520,
       "digest": "sha256:4d6cc25d4680e1c060790d35ae1c1013944ce31b3f7ccf5be4110f1ee8aa7654",
-      "download_count": 1037,
+      "download_count": 1048,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:30Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-async-portable.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 29379523,
       "digest": "sha256:4870de99598ac8997567d8ffb9075d42de8f6fb43039bb57d0eb5146288c8117",
-      "download_count": 1244,
+      "download_count": 1260,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:26Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-async.exe"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 63307744,
       "digest": "sha256:368a9037fce1d73ff76c7ad3a2492e83d372f0e985b54906311d852dba98260c",
-      "download_count": 536,
+      "download_count": 543,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:31Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-native-rust-portable.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 31763734,
       "digest": "sha256:5801666618e05632628e55d9ad5caeb92e0349e81f4f3226f86f163f5a64f256",
-      "download_count": 575,
+      "download_count": 582,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:27Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-native-rust.exe"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 60691063,
       "digest": "sha256:88b6752b6236a76220bafdfab4e33e7105b4bc7d4d021dc2441ac10f2485cde6",
-      "download_count": 557,
+      "download_count": 563,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:30Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-threaded-portable.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 29341810,
       "digest": "sha256:b4d2373eb51fc28b220a4f42e5c7bc97de47b4b35f9dc4bb057fe77ea05c147a",
-      "download_count": 714,
+      "download_count": 726,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:27Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-threaded.exe"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 3714,
       "digest": "sha256:14a764af9ca42e3119e8d2d45331de6445efad5a01744b2bf62e1ab77bb08115",
-      "download_count": 160,
+      "download_count": 162,
       "created_at": "2026-08-14T02:22:21Z",
       "updated_at": "2026-08-14T02:22:21Z",
       "browser_download_url": "https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/SHA256SUMS.txt"

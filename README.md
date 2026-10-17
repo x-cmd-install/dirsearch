@@ -14,11 +14,11 @@ x install dirsearch
 
 ## Code insight
 
-Total: **43,660** lines of code across **246** files in the top 5 languages.
+Total: **43,928** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 36,237 | 1,472 | 6,284 | 223 |
+| Python | 36,505 | 1,476 | 6,303 | 224 |
 | Rust | 6,869 | 45 | 625 | 18 |
 | RPMSpecfile | 122 | 13 | 15 | 1 |
 | Sh | 119 | 1 | 24 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.0` (2026-08-14)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-16
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 14,962 · **Forks**: 2,456 · **Open issues**: 603 · **Contributors**: 95
+- **Stars**: 14,970 · **Forks**: 2,458 · **Open issues**: 603 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 922 · **Open PRs**: 3 · **Closed issues**: 589 · **Open issues**: 14 · **Commits**: 3024
+- **Releases**: 17 · **Merged PRs**: 923 · **Open PRs**: 3 · **Closed issues**: 589 · **Open issues**: 14 · **Commits**: 3025
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 61 | 1 | 1 | 1 | 78 |
-| last60d | 2026-08-17 | 0 | 137 | 1 | 6 | 4 | 189 |
-| 90d | 2026-07-18 | 1 | 147 | 1 | 8 | 6 | 214 |
-| last180d | 2026-04-19 | 1 | 172 | 3 | 12 | 6 | 260 |
-| 360d | 2025-10-21 | 1 | 202 | 3 | 20 | 6 | 307 |
-| last720d | 2024-10-26 | 1 | 221 | 3 | 53 | 7 | 550 |
+| 30d | 2026-09-17 | 0 | 62 | 1 | 1 | 1 | 79 |
+| last60d | 2026-08-18 | 0 | 138 | 1 | 6 | 4 | 190 |
+| 90d | 2026-07-19 | 1 | 148 | 1 | 8 | 6 | 215 |
+| last180d | 2026-04-20 | 1 | 173 | 3 | 12 | 6 | 261 |
+| 360d | 2025-10-22 | 1 | 203 | 3 | 20 | 6 | 308 |
+| last720d | 2024-10-27 | 1 | 222 | 3 | 53 | 7 | 551 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:45Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:22:49Z._

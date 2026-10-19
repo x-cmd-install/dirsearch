@@ -14,11 +14,11 @@ x install dirsearch
 
 ## Code insight
 
-Total: **44,274** lines of code across **250** files in the top 5 languages.
+Total: **45,102** lines of code across **257** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 36,851 | 1,496 | 6,346 | 227 |
+| Python | 37,679 | 1,516 | 6,484 | 234 |
 | Rust | 6,869 | 45 | 625 | 18 |
 | RPMSpecfile | 122 | 13 | 15 | 1 |
 | Sh | 119 | 1 | 24 | 1 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,972 · **Forks**: 2,458 · **Open issues**: 603 · **Contributors**: 95
+- **Stars**: 14,976 · **Forks**: 2,458 · **Open issues**: 603 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 926 · **Open PRs**: 2 · **Closed issues**: 589 · **Open issues**: 14 · **Commits**: 3028
+- **Releases**: 17 · **Merged PRs**: 929 · **Open PRs**: 5 · **Closed issues**: 589 · **Open issues**: 14 · **Commits**: 3033
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 65 | 0 | 1 | 1 | 65 |
-| last60d | 2026-08-19 | 0 | 140 | 0 | 4 | 4 | 171 |
-| 90d | 2026-07-20 | 1 | 151 | 0 | 8 | 6 | 217 |
-| last180d | 2026-04-21 | 1 | 176 | 2 | 12 | 6 | 264 |
-| 360d | 2025-10-23 | 1 | 206 | 2 | 20 | 6 | 311 |
-| last720d | 2024-10-28 | 1 | 225 | 2 | 53 | 7 | 554 |
+| 30d | 2026-09-19 | 0 | 68 | 3 | 1 | 1 | 68 |
+| last60d | 2026-08-20 | 0 | 142 | 3 | 2 | 3 | 174 |
+| 90d | 2026-07-21 | 1 | 154 | 3 | 8 | 6 | 220 |
+| last180d | 2026-04-22 | 1 | 179 | 5 | 12 | 6 | 267 |
+| 360d | 2025-10-24 | 1 | 209 | 5 | 20 | 6 | 314 |
+| last720d | 2024-10-29 | 1 | 228 | 5 | 53 | 7 | 559 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:24:39Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:38:00Z._

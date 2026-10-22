@@ -30,7 +30,7 @@ x install dirsearch
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ x install dirsearch
 
 ## 流行度
 
-- **Star**: 14,988 · **Fork**: 2,457 · **开放 issue**: 603 · **贡献者**: 95
+- **Star**: 14,994 · **Fork**: 2,457 · **开放 issue**: 603 · **贡献者**: 95
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install dirsearch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 68 | 9 | 1 | 1 | 68 |
-| last60d | 2026-08-22 | 0 | 142 | 9 | 2 | 3 | 174 |
-| 90d | 2026-07-23 | 1 | 153 | 9 | 8 | 6 | 220 |
-| last180d | 2026-04-24 | 1 | 179 | 11 | 12 | 6 | 267 |
-| 360d | 2025-10-26 | 1 | 209 | 11 | 20 | 6 | 314 |
-| last720d | 2024-10-31 | 1 | 228 | 11 | 52 | 7 | 559 |
+| 30d | 2026-09-22 | 0 | 66 | 9 | 0 | 1 | 68 |
+| last60d | 2026-08-23 | 0 | 139 | 9 | 2 | 3 | 174 |
+| 90d | 2026-07-24 | 1 | 153 | 9 | 8 | 6 | 220 |
+| last180d | 2026-04-25 | 1 | 179 | 11 | 12 | 6 | 267 |
+| 360d | 2025-10-27 | 1 | 209 | 11 | 20 | 6 | 314 |
+| last720d | 2024-11-01 | 1 | 227 | 11 | 52 | 7 | 559 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ dirsearch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:44:52Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:46:01Z._

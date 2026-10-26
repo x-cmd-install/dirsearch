@@ -52,8 +52,8 @@
   srcname: dirsearch
   binname: dirsearch
   visiblename: dirsearch
-  version: 3007.13b3cc8b
-  origversion: 3007.13b3cc8b-1
+  version: 3033.b45e01bb
+  origversion: 3033.b45e01bb-1
   status: ignored
   summary: HTTP(S) directory/file brute forcer.
   licenses:

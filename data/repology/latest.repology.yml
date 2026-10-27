@@ -134,8 +134,8 @@
   binnames:
     - dirsearch
   visiblename: dirsearch
-  version: 0.4.3
-  origversion: 0.4.3-1
+  version: 0.4.4
+  origversion: 0.4.4-3
   status: outdated
   maintainers:
     - team+pkg-security@tracker.debian.org
@@ -154,7 +154,7 @@
   licenses:
     - GPL-2.0-only
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: dirsearch
   binnames:
     - dirsearch
@@ -168,7 +168,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: dirsearch
   binnames:
     - dirsearch

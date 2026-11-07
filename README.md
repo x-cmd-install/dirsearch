@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,048 · **Forks**: 2,462 · **Open issues**: 605 · **Contributors**: 96
+- **Stars**: 15,052 · **Forks**: 2,460 · **Open issues**: 605 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 8 | 5 | 1 | 1 | 10 |
-| last60d | 2026-09-07 | 0 | 113 | 5 | 2 | 4 | 142 |
-| 90d | 2026-08-08 | 1 | 153 | 5 | 9 | 7 | 223 |
-| last180d | 2026-05-10 | 1 | 178 | 7 | 12 | 7 | 252 |
-| 360d | 2025-11-11 | 1 | 211 | 7 | 20 | 7 | 317 |
-| last720d | 2024-11-16 | 1 | 223 | 7 | 51 | 8 | 553 |
+| 30d | 2026-10-08 | 0 | 8 | 5 | 1 | 1 | 10 |
+| last60d | 2026-09-08 | 0 | 110 | 5 | 2 | 3 | 142 |
+| 90d | 2026-08-09 | 1 | 153 | 5 | 9 | 7 | 223 |
+| last180d | 2026-05-11 | 1 | 178 | 7 | 12 | 7 | 252 |
+| 360d | 2025-11-12 | 1 | 211 | 7 | 20 | 7 | 317 |
+| last720d | 2024-11-17 | 1 | 223 | 7 | 51 | 8 | 553 |
 
 ## Release assets
 
@@ -103,18 +103,6 @@ Lowest-scoring checks:
 | [dirsearch-v0.5.0-windows-x64-threaded.exe](https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-threaded.exe) | 28.0 MiB | `native/win/x64` |
 | [SHA256SUMS.txt](https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/SHA256SUMS.txt) | 3.6 KiB | `other` |
 
-## Distribution status
-
-Reported by **24** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.4.4` | ⚠️ outdated |
-| Debian 13 | `0.4.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.4.3` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.4.3` | ⚠️ outdated |
-| Nix unstable | `0.5.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dirsearch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -124,4 +112,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:43:35Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:09:42Z._

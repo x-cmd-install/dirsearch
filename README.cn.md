@@ -47,7 +47,7 @@ x install dirsearch
 
 ## 流行度
 
-- **Star**: 15,048 · **Fork**: 2,462 · **开放 issue**: 605 · **贡献者**: 96
+- **Star**: 15,052 · **Fork**: 2,460 · **开放 issue**: 605 · **贡献者**: 96
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install dirsearch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 8 | 5 | 1 | 1 | 10 |
-| last60d | 2026-09-07 | 0 | 113 | 5 | 2 | 4 | 142 |
-| 90d | 2026-08-08 | 1 | 153 | 5 | 9 | 7 | 223 |
-| last180d | 2026-05-10 | 1 | 178 | 7 | 12 | 7 | 252 |
-| 360d | 2025-11-11 | 1 | 211 | 7 | 20 | 7 | 317 |
-| last720d | 2024-11-16 | 1 | 223 | 7 | 51 | 8 | 553 |
+| 30d | 2026-10-08 | 0 | 8 | 5 | 1 | 1 | 10 |
+| last60d | 2026-09-08 | 0 | 110 | 5 | 2 | 3 | 142 |
+| 90d | 2026-08-09 | 1 | 153 | 5 | 9 | 7 | 223 |
+| last180d | 2026-05-11 | 1 | 178 | 7 | 12 | 7 | 252 |
+| 360d | 2025-11-12 | 1 | 211 | 7 | 20 | 7 | 317 |
+| last720d | 2024-11-17 | 1 | 223 | 7 | 51 | 8 | 553 |
 
 ## Release 资产
 
@@ -103,18 +103,6 @@ x install dirsearch
 | [dirsearch-v0.5.0-windows-x64-threaded.exe](https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/dirsearch-v0.5.0-windows-x64-threaded.exe) | 28.0 MiB | `native/win/x64` |
 | [SHA256SUMS.txt](https://github.com/maurosoria/dirsearch/releases/download/v0.5.0/SHA256SUMS.txt) | 3.6 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dirsearch) 上共有 **24** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.4.4` | ⚠️ outdated |
-| Debian 13 | `0.4.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.4.3` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.4.3` | ⚠️ outdated |
-| Nix unstable | `0.5.0` | ✅ latest |
-
 ## 改进这些数据
 
 dirsearch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dirsearch` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -124,4 +112,4 @@ dirsearch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:43:36Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T07:09:43Z._

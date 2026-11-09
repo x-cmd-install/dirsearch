@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,053 · **Forks**: 2,459 · **Open issues**: 605 · **Contributors**: 96
+- **Stars**: 15,057 · **Forks**: 2,460 · **Open issues**: 605 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 8 | 5 | 1 | 1 | 10 |
-| last60d | 2026-09-09 | 0 | 108 | 5 | 2 | 3 | 142 |
-| 90d | 2026-08-10 | 1 | 153 | 5 | 9 | 7 | 223 |
-| last180d | 2026-05-12 | 1 | 178 | 7 | 12 | 7 | 252 |
-| 360d | 2025-11-13 | 1 | 211 | 7 | 20 | 7 | 317 |
-| last720d | 2024-11-18 | 1 | 223 | 7 | 51 | 8 | 553 |
+| 30d | 2026-10-10 | 0 | 8 | 5 | 1 | 1 | 10 |
+| last60d | 2026-09-10 | 0 | 105 | 5 | 2 | 3 | 99 |
+| 90d | 2026-08-11 | 1 | 153 | 5 | 9 | 7 | 199 |
+| last180d | 2026-05-13 | 1 | 178 | 7 | 12 | 7 | 252 |
+| 360d | 2025-11-14 | 1 | 211 | 7 | 20 | 7 | 317 |
+| last720d | 2024-11-19 | 1 | 223 | 7 | 51 | 8 | 552 |
 
 ## Release assets
 
@@ -105,7 +105,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **25** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -124,4 +124,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:59:01Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:35:53Z._

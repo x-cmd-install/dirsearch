@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,058 · **Forks**: 2,459 · **Open issues**: 606 · **Contributors**: 96
+- **Stars**: 15,065 · **Forks**: 2,461 · **Open issues**: 606 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 931 · **Open PRs**: 7 · **Closed issues**: 590 · **Open issues**: 16 · **Commits**: 3038
+- **Releases**: 17 · **Merged PRs**: 931 · **Open PRs**: 8 · **Closed issues**: 590 · **Open issues**: 16 · **Commits**: 3038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 8 | 5 | 1 | 2 | 10 |
-| last60d | 2026-09-11 | 0 | 93 | 5 | 2 | 4 | 99 |
-| 90d | 2026-08-12 | 1 | 153 | 5 | 9 | 8 | 199 |
-| last180d | 2026-05-14 | 1 | 178 | 7 | 12 | 8 | 252 |
-| 360d | 2025-11-15 | 1 | 211 | 7 | 20 | 8 | 317 |
-| last720d | 2024-11-20 | 1 | 223 | 7 | 50 | 9 | 552 |
+| 30d | 2026-10-12 | 0 | 8 | 6 | 1 | 2 | 10 |
+| last60d | 2026-09-12 | 0 | 91 | 6 | 2 | 4 | 99 |
+| 90d | 2026-08-13 | 1 | 149 | 6 | 9 | 7 | 199 |
+| last180d | 2026-05-15 | 1 | 178 | 8 | 12 | 8 | 252 |
+| 360d | 2025-11-16 | 1 | 211 | 8 | 20 | 8 | 317 |
+| last720d | 2024-11-21 | 1 | 223 | 8 | 50 | 9 | 552 |
 
 ## Release assets
 
@@ -105,7 +105,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **25** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **26** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -124,4 +124,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:31:06Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:39:31Z._

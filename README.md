@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,075 · **Forks**: 2,460 · **Open issues**: 606 · **Contributors**: 96
+- **Stars**: 15,079 · **Forks**: 2,463 · **Open issues**: 606 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 8 | 7 | 1 | 2 | 10 |
-| last60d | 2026-09-15 | 0 | 75 | 7 | 2 | 3 | 99 |
-| 90d | 2026-08-16 | 0 | 146 | 7 | 7 | 6 | 199 |
-| last180d | 2026-05-18 | 1 | 178 | 9 | 12 | 8 | 252 |
-| 360d | 2025-11-19 | 1 | 211 | 9 | 20 | 8 | 317 |
-| last720d | 2024-11-24 | 1 | 223 | 9 | 50 | 9 | 552 |
+| 30d | 2026-10-16 | 0 | 7 | 7 | 1 | 2 | 3 |
+| last60d | 2026-09-16 | 0 | 70 | 7 | 2 | 3 | 85 |
+| 90d | 2026-08-17 | 0 | 146 | 7 | 7 | 6 | 192 |
+| last180d | 2026-05-19 | 1 | 178 | 9 | 12 | 8 | 248 |
+| 360d | 2025-11-20 | 1 | 211 | 9 | 20 | 8 | 317 |
+| last720d | 2024-11-25 | 1 | 223 | 9 | 49 | 9 | 552 |
 
 ## Release assets
 
@@ -105,11 +105,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.4.4` | ⚠️ outdated |
+| Debian 14 | `0.4.4` | ⚠️ outdated |
 | Debian 13 | `0.4.3` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.4.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.4.3` | ⚠️ outdated |
@@ -124,4 +125,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:54:50Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:03:27Z._

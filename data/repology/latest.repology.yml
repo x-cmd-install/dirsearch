@@ -1,5 +1,19 @@
-- repo: raspbian_stable
+- repo: kali_rolling
   subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
   srcname: dirsearch
   binnames:
     - dirsearch
@@ -12,28 +26,14 @@
     - claystan97@gmail.com
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: dirsearch
   binnames:
     - dirsearch
   visiblename: dirsearch
   version: 0.4.4
   origversion: 0.4.4-3.1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.2
-  origversion: 0.4.2+ds-3
   status: outdated
   maintainers:
     - team+pkg-security@tracker.debian.org
@@ -94,8 +94,8 @@
   srcname: dirsearch
   binname: dirsearch
   visiblename: dirsearch
-  version: 3033.b45e01bb
-  origversion: 3033.b45e01bb-1
+  version: 3038.461705af
+  origversion: 3038.461705af-1
   status: ignored
   summary: HTTP(S) directory/file brute forcer.
   licenses:
@@ -156,48 +156,6 @@
     - claystan97@gmail.com
   categories:
     - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.3
-  origversion: 0.4.3-1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3.1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: kali_rolling
-  subrepo: main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
 - repo: nix_unstable
   srcname: dirsearch
   visiblename: dirsearch
@@ -210,7 +168,7 @@
   licenses:
     - GPL-2.0-only
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: dirsearch
   binnames:
     - dirsearch
@@ -224,7 +182,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: dirsearch
   binnames:
     - dirsearch
@@ -245,6 +203,48 @@
   visiblename: dirsearch
   version: 0.4.3
   origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.2
+  origversion: 0.4.2+ds-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3.1
   status: outdated
   maintainers:
     - team+pkg-security@tracker.debian.org

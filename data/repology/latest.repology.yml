@@ -1,45 +1,3 @@
-- repo: kali_rolling
-  subrepo: main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.3
-  origversion: 0.4.3-1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3.1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
 - repo: aur
   srcname: dirsearch
   binname: dirsearch
@@ -150,6 +108,48 @@
   visiblename: dirsearch
   version: 0.4.4
   origversion: 0.4.4-3.1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3.1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3
   status: outdated
   maintainers:
     - team+pkg-security@tracker.debian.org
@@ -337,20 +337,6 @@
     - universe/misc
 - repo: ubuntu_27_04
   subrepo: tenacious/universe
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
   srcname: dirsearch
   binnames:
     - dirsearch

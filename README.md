@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,101 · **Forks**: 2,461 · **Open issues**: 605 · **Contributors**: 96
+- **Stars**: 15,104 · **Forks**: 2,463 · **Open issues**: 605 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 2 | 6 | 1 | 2 | 3 |
-| last60d | 2026-09-21 | 0 | 70 | 7 | 2 | 3 | 85 |
-| 90d | 2026-08-22 | 0 | 144 | 7 | 3 | 5 | 192 |
-| last180d | 2026-05-24 | 1 | 174 | 9 | 12 | 8 | 248 |
-| 360d | 2025-11-25 | 1 | 211 | 9 | 20 | 8 | 317 |
-| last720d | 2024-11-30 | 1 | 223 | 9 | 46 | 9 | 552 |
+| 30d | 2026-10-22 | 0 | 2 | 6 | 1 | 2 | 3 |
+| last60d | 2026-09-22 | 0 | 68 | 7 | 1 | 3 | 85 |
+| 90d | 2026-08-23 | 0 | 141 | 7 | 3 | 5 | 192 |
+| last180d | 2026-05-25 | 1 | 174 | 9 | 12 | 8 | 248 |
+| 360d | 2025-11-26 | 1 | 211 | 9 | 20 | 8 | 317 |
+| last720d | 2024-12-01 | 1 | 223 | 9 | 46 | 9 | 552 |
 
 ## Release assets
 
@@ -105,7 +105,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+Reported by **26** distros on [repology.org](https://repology.org/project/dirsearch). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -125,4 +125,4 @@ Install metadata for dirsearch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:39:24Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:38:50Z._

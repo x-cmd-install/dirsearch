@@ -1,27 +1,17 @@
-- repo: aur
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: dirsearch
-  binname: dirsearch
+  binnames:
+    - dirsearch
   visiblename: dirsearch
-  version: 0.4.3
-  origversion: 0.4.3-5
+  version: 0.4.4
+  origversion: 0.4.4-3.1
   status: outdated
-  summary: Web path scanner/fuzzer, written in Python
   maintainers:
-    - levitating@aur
-  licenses:
-    - GPL-2.0-only
-- repo: aur
-  srcname: dirsearch-git
-  binname: dirsearch-git
-  visiblename: dirsearch-git
-  version: 0.4.2.r298.ec05dec
-  origversion: 1:0.4.2.r298.ec05dec-1
-  status: rolling
-  summary: Web path scanner/fuzzer, written in Python
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - GPL2
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
 - repo: backbox_7
   srcname: dirsearch
   binnames:
@@ -48,6 +38,44 @@
     - claystan97@gmail.com
   categories:
     - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: dirsearch
+  binnames:
+    - dirsearch
+  visiblename: dirsearch
+  version: 0.4.4
+  origversion: 0.4.4-3.1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - claystan97@gmail.com
+  categories:
+    - misc
+- repo: aur
+  srcname: dirsearch
+  binname: dirsearch
+  visiblename: dirsearch
+  version: 0.4.3
+  origversion: 0.4.3-5
+  status: outdated
+  summary: Web path scanner/fuzzer, written in Python
+  maintainers:
+    - levitating@aur
+  licenses:
+    - GPL-2.0-only
+- repo: aur
+  srcname: dirsearch-git
+  binname: dirsearch-git
+  visiblename: dirsearch-git
+  version: 0.4.2.r298.ec05dec
+  origversion: 1:0.4.2.r298.ec05dec-1
+  status: rolling
+  summary: Web path scanner/fuzzer, written in Python
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL2
 - repo: blackarch
   srcname: dirsearch
   binname: dirsearch
@@ -122,34 +150,6 @@
   visiblename: dirsearch
   version: 0.4.3
   origversion: 0.4.3-1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3.1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - claystan97@gmail.com
-  categories:
-    - misc
-- repo: kali_rolling
-  subrepo: main
-  srcname: dirsearch
-  binnames:
-    - dirsearch
-  visiblename: dirsearch
-  version: 0.4.4
-  origversion: 0.4.4-3
   status: outdated
   maintainers:
     - team+pkg-security@tracker.debian.org
